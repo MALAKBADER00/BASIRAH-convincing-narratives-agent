@@ -1,0 +1,9 @@
+streamlit
+pandas
+openai
+python-dotenv
+plotly
+langchain-core
+langgraph
+groq
+openpyxl

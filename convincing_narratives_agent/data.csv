@@ -1,0 +1,179 @@
+﻿Specific trigger words;Victim Reaction;score (1-10);Keywords
+I was in a car accident... I need money;Emotional concern, willingness to help without verifying;9;car accident
+Please don't tell Mom and Dad...;Isolation, trust, secrecy;10;please don't
+You need to send the money today via Western Union;Shock, Sense of urgency, quick action without thinking;8;you need
+This is Microsoft Support... your computer has a dangerous virus;Fear, technical confusion, Shock, Sense of urgency;8;dangerous virus
+If we don't fix it now, your data could be exposed;Shock, Fear, Panic, rush to resolve the issue;9;data could be exposed
+I'll help you step by step;Trust through helpful tone, follows instructions blindly;8;help you
+You've won a trip and $250,000 - just a small processing fee;Excitement, greed, reduced critical thinking;7;you've won
+Exclusive crypto opportunity with 25% monthly returns;Curiosity, greed, willingness to invest;7;exclusive opportunity
+Grandma, it's me...;Family connection, immediate trust;10;grandma
+Your Social Security number has been suspended!;Panic, fear of losing benefits;9;has been suspended
+Your Amazon account was charged $500 - confirm your details!;Shock, urgency to resolve the issue;8;your account was charged
+The police are coming to arrest you for unpaid taxes!;Shock, Fear, Panic, compliance with demands;10;unpaid taxes
+Your flight is canceled! Pay a fee to rebook.;Annoyance, Stress, rush to secure travel plans;8;your flight is canceled
+You're eligible for a government grant-send your bank details!;Excitement, reduced skepticism;8;you're eligible
+Your job application was selected! Just pay a small booking fee.;Excitement, Hope, willingness to invest in opportunity;8;you are selected
+Your software subscription expired-renew now to unlock features!;Fear of missing out, quick action;5;subscription expired
+Your bank account is under attack! We need your password NOW!;Shock, Fear, Panic, compliance with demands;10;under attack
+Your Netflix account is locked. Update your payment info here.;Concern, Stress, Fear, Annoyance, haste to restore access;6;your account is locked
+Congratulations, you've been selected!;Flattery, exclusivity, reward expectation;7;you've been selected
+You're one of the lucky few eligible for this offer;Scarcity bias, feeling special;8;limited offer
+We're offering you VIP access;Ego appeal, status boost;7;offering you
+This is a once-in-a-lifetime opportunity;Urgency + reward;9;once-in-a-lifetime
+We just need your confirmation to release your prize;Simplicity, reduces doubt;8;release your prize
+You've done everything right - now enjoy your reward;Reinforcement, compliance motivation;6;your reward
+Act now and secure your future;Motivation through promise of safety and success;8;your future
+By helping today, you're doing the right thing;Morality cue, guilt avoidance;7;doing the right thing
+You're just one step away from success;Momentum bias, commitment reinforcement;7;one step away
+Join thousands of satisfied users today;Social proof, belonging;8;join thousands
+You've made a smart choice by opening this message;Ego stroking, validation;6;smart choice
+Secure peace of mind today;Promises emotional relief and safety;7;secure peace
+Because you're a valued customer, we're offering you...;Loyalty reward, trust reinforcement;8;you're a valued customer
+Smart people always take advantage of this;Identity alignment (appealing to intelligence, status);7;smart people
+You're in control - just click to confirm;Empowerment framing;6;you're in control
+Thank you for your trust - let us help you now;Trust reinforcement, building rapport;7;let us help
+If you wait, you could lose everything;Fear, urgency, suppression of slow thinking;10;ypu could lose
+You'll regret it if you don't act now;Guilt, fear of missing out (FOMO);9;you'll regret
+Failure to respond will result in legal consequences;Intimidation, pressure through authority;10;legal consequences
+Your account will be suspended permanently;Loss aversion, fear;9;suspended permanently
+Don't let this chance slip away;Scarcity + implied blame;8;Don't let this chance slip away
+Others already took advantage - don't fall behind;Social comparison, status anxiety;8;don't fall behind
+We tried to reach you multiple times. This is your last chance.;Pressure via repetition and finality;9;your last chance
+You're putting your loved ones at risk by waiting;Emotional blackmail, guilt;10;your loved ones
+If you ignore this, your future could be at risk;Long-term fear, fear of loss;9;your future could
+We cannot guarantee your safety unless you act now;Fear appeal, security leverage;10;guarantee your safety
+You've been flagged for suspicious activity;Paranoia trigger, confusion, compliance;9;suspicious activity
+This is your final warning;Scarcity, authority, fear of escalation;9;your final warning
+Act now or face irreversible consequences;Pressure, finality, cognitive shutdown;10;irreversible consequences
+You'll be personally responsible if you don't respond;Guilt, personal accountability;9;personally responsible
+Other people acted - why haven't you?;Shame, social comparison;8;other people acted
+Inaction could make things much worse;Loss aversion, fear of worsening conditions;9;make things worse
+Your passport will be revoked unless you pay the fine immediately;Fear of travel disruption, panic;9;revoked
+We're from the FBI Cyber Division - your IP address was used in a crime;Authority fear, technical confusion;9;was used in a crime
+Your DNA test shows you owe child support;Shock, guilt, urgency;8;you owe
+Your smart home security system has been breached;Privacy violation fear;8;breached
+Your email is spreading viruses to everyone in your contacts;Social embarrassment, urgency;7;spreading viruses
+Your cryptocurrency wallet needs immediate verification;Fear of financial loss;8;immidiate verification
+Your car warranty is about to expire - press 1 to speak to an agent;False urgency, authority mimicry;6;about to expire
+Your college degree is at risk of being revoked;Status anxiety, fear of loss;7;at risk
+Your online dating profile has been reported - pay to suppress the complaint;Shame, social fear;8;reported
+Your internet provider detected illegal downloads;Legal fear, technical confusion;8;illegal downloads
+Your food delivery account was hacked - confirm your payment details;Convenience fear, urgency;7;hacked
+Your smart TV is spying on you - download this security patch;Privacy paranoia;7;spying
+Your medical insurance claim was denied - pay to appeal;Health anxiety, bureaucratic fear;8;claim was denied
+Your Uber account shows suspicious rides in another country;Financial fear, confusion;7;suspicious
+Your Apple ID was used to purchase child exploitation material;Moral panic, legal fear;10;exploitation
+Your electric car battery is remotely overheating;Physical safety fear;8;overheating
+Your Airbnb guest damaged the property - pay for repairs;Host guilt, responsibility fear;7;damaged the property
+Your COVID test results are positive - pay for urgent treatment;Health panic;9;urgent treatment
+Your student loans qualify for immediate forgiveness;Hope, bureaucratic confusion;7;immidiate forgiveness
+Your Google account will be deleted in 24 hours;Data loss fear;8;will be deleted
+Your PayPal account shows suspicious donations;Financial confusion;7;suspicious
+Your Ring doorbell was hacked - criminals are watching your home;Safety violation fear;9;hacked
+Your LinkedIn profile was flagged for violations;Professional reputation fear;7;violations
+Your credit card was used at a gun store - confirm if this was you;Shock, urgency;8;card was used
+Your online banking session expired - re-enter your credentials;False problem urgency;7;expired
+Your iPhone is infected with Pegasus spyware;Technical fear, privacy violation;8;infected
+Your Disney+ account shows purchases you didn't make;Financial confusion, brand trust;6;purshases you didn't make
+Your smart thermostat is hacked - your home temperature is rising;Physical discomfort fear;7;hacked
+Your unemployment benefits require immediate recertification;Financial anxiety;7;require immidiate
+Your account shows unpaid tolls from another country;Bureaucratic fear;6;unpaid tolls
+Your prescription is ready but needs payment confirmation;Health urgency;7;payment confirmation
+Your Venmo account sent money to a stranger;Financial shock;7;sent money to a stranger
+Your home appraisal shows dangerous mold - pay for emergency inspection;Health/safety fear;8;dangerous
+Your Twitter account is spreading malware;Social reputation fear;7;malware
+Your car's GPS shows you speeding in a school zone;Legal fear, false evidence;8;car speeding
+Your Instagram was reported for violations;Social media dependence fear;6;violations
+Your retirement account has suspicious withdrawals;Future security fear;8;suspicious
+Your Alexa device recorded private conversations;Extreme privacy violation fear;9;private conversations
+Your Zoom account was used for illegal meetings;Professional reputation fear;7;illegal meeting
+Your Nest camera feed is on the dark web;Family safety fear;9;nest camera
+Your Grubhub account shows $300 in pending orders;Financial confusion;7;pending orders
+Your Tesla was remotely accessed - pay to secure it;High-tech fear;8;secure it
+Your pharmacy records show dangerous drug interactions;Health panic;8;dangerous drug
+Your Spotify account is spreading copyrighted material;Legal fear;6;copyrighted material
+Your home WiFi is being used for illegal activities;Legal/financial fear;8;illegal activity
+Your smart lock has been compromised;Physical safety fear;9;compromised
+Your Doordash driver was in an accident with your food;Absurd liability fear;5;car accident
+Your biometric data was leaked in a hack;Irreversible privacy fear;9;leaked data
+Your cloud backup is corrupted - pay to recover precious family photos;Sentimental loss panic;8;corrupted data
+Your EV charging account shows $900 in unpaid fees - service will be cut;Eco-guilt, mobility fear;7;unpaid fees
+Your wedding venue canceled - pay a deposit to secure new location;Emotional distress, time pressure;9;canceled order
+Your ancestry results show legal inheritance - pay processing to claim;Heritage pride + greed;7;pay to claim
+Your gaming account was used for cheating - pay or face lifetime ban;Hobby loss anxiety;7;lifetime ban
+Your pet's microchip shows unpaid vet bills - renew registration now;Animal lover guilt;8;unpaid bills
+Your voting registration is incomplete - verify immediately to participate;Civic duty pressure;6;incomplete registration
+Your smartwatch ECG detected arrhythmia - purchase full diagnostic;Health tech fear;8;detected illness
+Your Tesla FSD camera captured a hit-and-run - pay to avoid liability;False evidence fear;9;avoid liability
+Your Airbnb guest left drugs - police demand cleanup fee;Legal contamination fear;8;police demand
+Your Kindle account pirated books - pay copyright fine;Literary shame;5;copyright fine
+Your VR headset caused eye damage - medical compensation available;Tech injury fear;7;eye damage
+Your DNA matches a crime scene - confidential settlement possible;Genetic panic;9;crime scene
+Your solar panels are overloading the grid - urgent repair needed;Eco-anxiety;7;urgent repair
+Your baby monitor was hacked - strangers are watching your child;Parental terror;10;hacked
+Your GoFundMe was reported fraudulent - donors will be notified;Social shame;8;reported frauddlent
+Your smart scale data shows obesity risk - purchase premium analysis;Body image anxiety;6;obesity risk
+Your VPN usage triggered government monitoring;Political paranoia;8;government monitoring
+Your Peloton account shared private workout videos;Body privacy shame;6;private videos
+Your language learning app leaked racist phrases;Reputation terror;9;racist phrases
+Your sleep tracker shows deadly insomnia patterns;Biofeedback panic;8;deadly
+Your smart mirror took compromising photos;Vanity privacy fear;7;compromising photos
+Your plant sensors show toxic mold in home;Environmental health fear;8;toxic mold
+Your YouTube kids account accessed adult content;Parental failure guilt;9;youtube kids account
+Your meditation app recorded disturbing subconscious messages;Spiritual fear;6;subconscious messages
+Your car's black box proves you caused accident;Fabricated evidence fear;9;you caused accident
+Your Airbnb has hidden cameras - pay removal fee;Voyeurism panic;9;pay fee
+Your ancestry DNA matches royal lineage - claim inheritance;Aristocratic greed;7;claim inhiretance
+Your food delivery contained allergens - medical fee required;Contamination guilt;7;medical fee
+Your smart toilet detected health emergency;Embarrassment + fear;6;health emergency
+Your podcast was copyrighted - pay per listener;Creator guilt;5;copyrighted podcast
+Your gaming headset caused hearing damage;Product liability fear;6;hearing dagamage
+Your Tesla sent autopilot death threats;AI terror;8;death threats
+Your smart blinds trapped someone inside;Home automation fear;6;trapped somone
+Your prayer app leaked confidential requests;Religious violation;8;confidential
+Your pet cam broadcasted private moments;Animal-related shame;7;private moments
+Your golf simulator triggered gambling laws;Niche legal fear;5;triggered laws
+Your recipe blog plagiarized Michelin chefs;Culinary reputation;6;plagiarized
+Your telescope captured classified satellites;Space-related paranoia;7;classified
+Your VR avatar assaulted another player;Digital identity fear;7;assaulted
+Your chess app detected cheating algorithm;Intellectual shame;6;detected cheating
+Your smart garden grew illegal plants;Automated system fear;6;illegal
+Your poetry journal was flagged as AI-generated;Creative authenticity crisis;5;flagged
+Your meditation cushion contains toxic materials;Wellness industry distrust;6;toxic materials
+Congratulations! You've been selected for an exclusive scholarship worth $5,000.;Excitement, gratitude, willingness to comply with instructions.;8;exclusive scholarship
+You’ve won a surprise bonus for being a loyal customer.;Happiness, trust, reduced skepticism, immediate engagement.;7;loyal customer bonus
+Your account qualifies for a free premium upgrade this month only.;Pleasant surprise, curiosity, desire to act quickly.;8;premium upgrade
+Surprise! You’re our lucky winner of the weekly gift card draw.;Joy, sense of luck, quick action to claim prize.;7;lucky winner
+We’re rewarding you with early access to exclusive discounts.;Excitement, eagerness to participate, reduced caution.;6;exclusive discounts
+Your excellent payment history makes you eligible for VIP rewards.;Pride, happiness, compliance due to recognition.;8;VIP rewards
+Congratulations! Your name was chosen for a holiday travel voucher.;Excitement, curiosity, willingness to share details.;9;holiday voucher
+As one of our best customers, we’re giving you a surprise cashback bonus.;Happiness, trust, quick action to redeem.;7;cashback bonus
+You’ve earned enough points for a free hotel stay!;Excitement, joy, eagerness to redeem.;8;free hotel stay
+We’re thrilled to offer you complimentary tickets to a live event.;Excitement, anticipation, eagerness to accept.;8;complimentary tickets
+Congratulations! You’ve unlocked a secret promotion code for 50% off.;Excitement, surprise, quick decision to use it.;7;promotion code
+Good news! You’re eligible for a free health checkup voucher.;Relief, gratitude, immediate trust.;8;health voucher
+Thank you for being part of our community! Enjoy this surprise gift.;Warmth, trust, eagerness to claim gift.;7;surprise gift
+You’re pre-approved for a reward program with no extra cost.;Happiness, sense of privilege, willingness to continue.;8;reward program
+You’ve been shortlisted for an exclusive mentorship opportunity.;Excitement, pride, quick engagement to not miss chance.;9;mentorship opportunity
+We’re upgrading you to first-class free of charge!;Excitement, joy, immediate acceptance.;9;first-class upgrade
+Surprise bonus: your next bill is reduced by 20%.;Relief, gratitude, trust towards sender.;7;bonus discount
+You’ve been selected for a free professional training session.;Excitement, pride, willingness to attend.;8;training session
+Good news! You’re automatically entered into our reward raffle.;Excitement, curiosity, willingness to stay engaged.;7;reward raffle
+Your subscription includes a hidden perk: free upgrades for 6 months.;Joy, surprise, positive engagement.;8;hidden perk
+Thank you! You’re invited to our exclusive appreciation dinner.;Gratitude, honor, eagerness to attend.;9;appreciation dinner
+You’re our valued customer of the month – enjoy free rewards!;Pride, happiness, eagerness to accept.;8;customer of the month
+Congratulations! You’ve been chosen for a luxury spa voucher.;Excitement, joy, eagerness to redeem.;9;spa voucher
+We’re giving you early access to our holiday sales before everyone else.;Excitement, exclusivity, willingness to act quickly.;7;holiday sales
+You’ve won free groceries for a month!;Joy, surprise, eagerness to accept.;9;free groceries
+Your loyalty earns you a free smartphone upgrade.;Excitement, curiosity, eagerness to claim.;8;smartphone upgrade
+Surprise! We’re covering your next subscription fee.;Relief, happiness, trust.;7;subscription fee covered
+Your feedback has been rewarded with a special bonus gift.;Gratitude, joy, willingness to engage further.;7;bonus gift
+Congratulations! You’ve been handpicked for a VIP membership trial.;Excitement, pride, eagerness to participate.;8;VIP membership
+You’re being rewarded with free delivery for the next 3 months.;Relief, joy, trust.;7;free delivery
+We’ve added bonus points to your account as a surprise gift.;Excitement, curiosity, eagerness to spend.;8;bonus points
+Congratulations! You’re receiving a free subscription to premium services.;Joy, pride, eagerness to continue.;8;free subscription
+Your positive reviews have unlocked a hidden loyalty bonus.;Gratitude, pride, eagerness to redeem.;8;loyalty bonus
+Surprise! You’ve been entered into a lucky draw for a car giveaway.;Excitement, curiosity, anticipation.;9;car giveaway
+You’ve earned a free online course voucher just for participating.;Excitement, gratitude, eagerness to learn.;8;course voucher
+As a token of thanks, we’re giving you a surprise cash reward.;Joy, gratitude, eagerness to claim.;9;cash reward
