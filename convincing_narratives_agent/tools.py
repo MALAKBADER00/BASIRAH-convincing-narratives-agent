@@ -19,7 +19,15 @@ from langchain_core.prompts import ChatPromptTemplate
 
 class TriggerAnalyzer:
     def __init__(self,openai_client, trigger_file: str = "trigger_words.xlsx"):
-        self.df = pd.read_excel(trigger_file)
+        
+        base_path = Path(__file__).parent
+        trigger_path = base_path / trigger_file
+
+        if not trigger_path.exists():
+            raise FileNotFoundError(f"Trigger file not found at {trigger_path}")
+
+        
+        self.df = pd.read_excel(trigger_path)
 
         # Initialize OpenAI client with API key from config
         self.openai = openai_client
