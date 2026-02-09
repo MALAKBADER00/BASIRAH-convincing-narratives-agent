@@ -53,8 +53,9 @@ def text_to_speech(text):
         st.error(f"Error generating speech: {str(e)}")
         return None
 
-
-df = pd.read_csv("data.csv", delimiter=";")
+base_path = Path(__file__).parent
+csv_path = base_path / "data.csv"
+df = pd.read_csv(csv_path, delimiter=";")
 all_keywords = []
 for phrase in df["Keywords"]:
     words = str(phrase)
